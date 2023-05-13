@@ -4,7 +4,7 @@ Interpretation-based Code Summarization
 Our paper is available on -->
 
 
-# [Interpretation-based Code Summarization (ICPC 2023)](https://shangwenwang.github.io/files/ICPC-23A.pdf)
+# Interpretation-based Code Summarization (ICPC 2023)
 
 Our paper is available on [ResearchGate](https://shangwenwang.github.io/files/ICPC-23A.pdf).
 
@@ -42,7 +42,7 @@ five state-of-the-art code summarization approaches significantly.
 Install PyTorch. 
 The code has been tested with CUDA 11.2/CuDNN 8.1.0, PyTorch 1.8.1.
 
-Prepare pre-training datasets through [CodeSearchNet](https://github.com/github/CodeSearchNet). 
+Prepare the dataset through [CodeSearchNet](https://github.com/github/CodeSearchNet). 
 
 
 
